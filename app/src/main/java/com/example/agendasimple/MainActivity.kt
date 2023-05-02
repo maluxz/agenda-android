@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var emailEditText: EditText
     private lateinit var contactsListView: ListView
 
-    private lateinit var searchEditText: EditText
+    //private lateinit var searchEditText: EditText
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
